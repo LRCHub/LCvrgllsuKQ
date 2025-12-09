@@ -1,0 +1,41 @@
+# Kobo Kanaeru – Fond Memories
+
+> **歌詞登録ステータス：プレーン歌詞のみ**
+
+```
+Suara hujan yang menyentuh memori, dengarlah…
+Rindu yang menyiksa ini
+Tak bisa lepas dari sandaran waktu, oh kasih…
+Ingatkah?
+Gema ruang kosong kala itu, kau memanggilku
+“Andai kau tau, kehadiranmu..”
+Suara mu berdengung di pikiranku
+Kembalilah~ tak sanggup merindukanmu
+Kasihku, akan senyummu
+Bila saja, raga ini tetap dalam mimpi
+Gema ruang kosong kala itu, kau merayuku
+“Tersenyumlah kasih, saat ku pergi”
+Tak rela, berpisah, lupakan, fond memories..
+Kembalilah~ tak sanggup merindukanmu
+Kasihku, akan senyummu
+Bila saja, raga ini tetap dalam mimpi
+Kembali~ kembali~ kembali jangan pergi!
+Kembali kembali…
+Kembali~ kembali~ kembali jangan pergi..
+Kembali! Kembali! Kembali Jangan pergi! (Pergi
+sayangku, usai sedihmu)
+Kembali! Kembali… (jangan lah kau terus
+terjebak..)
+Kembali! Kembali! Kembali Jangan pergi! (Kan ku
+dampingi mu selamanya)
+Takkan ku lupakanmu!
+Kembalilah!
+Tak sanggup merindukanmu
+Kasihku akan senyum mu
+Bila saja raga ini tetap dalam mimpi.
+Kembalilah! (Aku pulang)
+Tak sanggup merindukanmu (jaga dirimu)
+Kasihku akan senyum mu (Kasihku rindu senyum mu)
+Bila saja raga ini tetap dalam mimpi (bila
+ikhlaskan pergi..)
+```
