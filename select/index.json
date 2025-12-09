@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "Fond Memories",
+  "base_artist": "Kobo Kanaeru",
+  "createdAt": "2025-12-09T09:33:32.313896Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Fond Memories",
+      "artist": "Santhosh Narayanan",
+      "has_synced": false,
+      "path": "select/01_Fond_Memories_Santhosh_Narayanan.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Fond Memories",
+      "artist": "Kobo Kanaeru",
+      "has_synced": false,
+      "path": "select/pl_01_Fond_Memories_Kobo_Kanaeru.txt"
+    }
+  ]
+}
